@@ -1,0 +1,46 @@
+CONTRATO DE PRESTACIÓN DE SERVICIOS
+
+Entre las partes:
+- EMPRESA CLIENTE S.A. (en adelante "El Cliente")
+- PROVEEDOR TECH SRL (en adelante "El Proveedor")
+
+CLÁUSULAS:
+
+1. OBJETO DEL CONTRATO
+El Proveedor se compromete a desarrollar un sistema de gestión empresarial según especificaciones técnicas anexas.
+
+2. PLAZO
+El contrato tendrá vigencia desde el 1 de enero de 2024 hasta el 31 de diciembre de 2025.
+La renovación será automática por períodos anuales salvo notificación con 30 días de anticipación.
+
+3. CONDICIONES DE PAGO
+El monto total del contrato es de USD 150,000.
+- 20% al inicio del proyecto
+- 30% a los 90 días
+- 50% contra entrega final
+El pago se realizará dentro de los 60 días posteriores a la recepción de la factura.
+
+4. PENALIDADES
+Por cada día de retraso en la entrega, se aplicará una penalidad del 0.5% del valor del contrato, con un máximo del 15%.
+
+5. CONFIDENCIALIDAD
+Las partes se comprometen a mantener estricta confidencialidad sobre toda información técnica y comercial.
+La vigencia de esta obligación será de 3 años posteriores a la terminación del contrato.
+
+6. PROPIEDAD INTELECTUAL
+Todos los desarrollos realizados serán propiedad exclusiva del Cliente una vez completado el pago total.
+
+7. TERMINACIÓN ANTICIPADA
+Cualquiera de las partes podrá terminar el contrato con un preaviso de 60 días.
+En caso de terminación por incumplimiento, no se requerirá preaviso.
+
+8. JURISDICCIÓN
+Para cualquier controversia, las partes se someten a los tribunales de la Ciudad de Buenos Aires, Argentina.
+
+9. LIMITACIÓN DE RESPONSABILIDAD
+La responsabilidad máxima del Proveedor no excederá el monto total pagado bajo este contrato.
+
+Firmado en Buenos Aires, a los 15 días del mes de enero de 2024.
+
+________________________          ________________________
+EMPRESA CLIENTE S.A.              PROVEEDOR TECH SRL
