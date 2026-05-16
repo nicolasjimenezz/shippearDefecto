@@ -1,0 +1,2 @@
+shippearDefecto
+Sistema de visión que revisa fotos tomadas en línea de producción (por ej. en packaging o en inspección de piezas) y las clasifica en categorías de defecto predefinidas. El operador de calidad valida los casos dudosos y el modelo aprende. Apunta a reducir escape de defectos y mejorar trazabilidad
