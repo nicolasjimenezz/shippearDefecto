@@ -1,3 +1,9 @@
-shippearDefecto
+Proyecto para Hackathon Shippear  16/05/2026
+https://v0-shippear.vercel.app/
 
-Sistema de visión que revisa fotos tomadas en línea de producción (por ej. en packaging o en inspección de piezas) y las clasifica en categorías de defecto predefinidas. El operador de calidad valida los casos dudosos y el modelo aprende. Apunta a reducir escape de defectos y mejorar trazabilidad
+Analista de contratos y órdenes de compra
+
+Herramienta que recibe un contrato de cliente o proveedor, extrae obligaciones, fechas, penalidades y condiciones de pago. Compara automáticamente contra el template interno de la empresa y muestra divergencias. Acelera la revisión legal y reduce el riesgo de firmar términos no estándar sin que nadie lo note.
+
+Métrica clave
+Reducción del tiempo de revisión de contratos y tasa de detección de cláusulas no estándar.
