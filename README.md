@@ -7,3 +7,6 @@ Herramienta que recibe un contrato de cliente o proveedor, extrae obligaciones, 
 
 Métrica clave
 Reducción del tiempo de revisión de contratos y tasa de detección de cláusulas no estándar.
+
+ContractAnalystAI Link:
+https://v0-contract-analysis-app-sigma.vercel.app/
